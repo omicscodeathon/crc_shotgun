@@ -14,5 +14,5 @@ echo "Number of Accessions to Grab from SRA Run Table: $num_accessions"
 accessions_plus_header=$(($num_accessions + 1))
 echo "Accessions including Header line from SRA Run Table: $accessions_plus_header"
 
-echo head -n $accessions_plus_header $input_file | tail -n $num_accessions | awk '{ print $1 }' > $output_file 
+head -n $accessions_plus_header $input_file | tail -n $num_accessions | awk '{ print $1 }' > $output_file 
 
