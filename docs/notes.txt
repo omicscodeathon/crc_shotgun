@@ -1,8 +1,18 @@
 Notes:
-It's good to validate the results.
+Evaluation of Results:
+It's good to validate the results beyond visual comparison with the published results of an existing literature.
+Figures should have good resolution and labels should be readable.
+
 After data analysis, extrapolating the most abundant molecular targets as biomarkers of a particular condition is purely speculative without network reconstruction in specific confounding factors which could have influenced the study outcomes.
+
+As part of the methodological rigour, the following are preferred,
+- balanced dataset (men/women, african/non-african, old/young etc.)
+- different omic data types can be compared (depending on what the project is about)
 
 To emphasize the methodological contribution of the study, these other possible validation approaches can be done:
 - Crossing different studies in databases that are related to the condition being studied.
 - Sensitivity analysis.
 - Co-occurence network analysis.
+
+Use-case or Novelty:
+Since similar pipelines likely exist already, hightlight the specific use-case(s) where this proposed solution is particularly relevant.
