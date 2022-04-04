@@ -1,5 +1,3 @@
 # crc_shotgun
-Human Gut Microbiome Exploration of Colorectal Cancer Patients Using Shotgun Metagenomes
-INTRODUCTION
-METHODOLOGY
-overall workflow
+Human gut microbiome investigation within colorectal cancer patients using shotgun sequencing approach
+
