@@ -1,10 +1,10 @@
 # Human gut microbiome investigation within colorectal cancer patients using shotgun sequencing approach
-##BACKGROUND
+## BACKGROUND
 
 
-##Team
---Jbara Soumaya
---Kasambula Arthur Shem
+## Team
+-- Jbara Soumaya
+-- Kasambula Arthur Shem
 
 
 
