@@ -8,7 +8,7 @@
 
 (a) Estimated age standardized incidence rate (100,000) for world countries; (b) Estimated age standardized mortality rate (100,000) for the world countries. Modified from Global Cancer Observatory (GBO) 2020, International Agency for Research on Cancer, World Health Organization 
 
-[ x ] This Codeathon project seeks to analyze WGS data of Colorectal cancer patients using a shortgun metagenomes approach
+* This Codeathon project _seeks to analyze WGS data of Colorectal cancer patients using a shortgun metagenomes approach_
 
 ## Background
 
@@ -24,8 +24,13 @@
 ![CRC Prevention](https://f6publishing.blob.core.windows.net/7920e3fb-54d9-482e-ac8e-556aa64f9d20/WJG-20-6055-g003.jpg)
 
 
-## Aims
+## Aim
+* To characterize microbial implicates in Colorectal Cancer infections using shorgun metagenomes approach
 
+## Objectives
+- Access Whole Genome Sequence data of colorectal cancer patients
+- Assemble and quality-check CRC metagenomes
+- Gene prediction, functional annotation and phylogenetic analysis
 
 ## Methodology
 * Obtain WGS fecal samples (Sequence Read Archive)
@@ -33,6 +38,7 @@
 * Trimming and Filtering 
 * Metagenome Assembly (metaSPades) and Quality Check of Assembled Metagenome (metaQUAST)
 * Metagenome Binning
+* Gene prediction and Functional Annotation
 * Taxonomic Assignment (Kraken2)
 * Diversity Analysis
 * Taxonomic and Phylogeny Analysis
