@@ -1,6 +1,14 @@
 # Human Gut Microbiome Exploration of Colorectal Cancer Patients Using Shortgut Metagenomes
 
-This Codeathon project seeks to analyze WGS data of Colorectal cancer patients using a shortgun metagenomes approach
+**Global Colorectal Cancer Distribution and Burden**
+
+![CRC Global distribution](https://www.researchgate.net/publication/350679855/figure/fig1/AS:1010786403090432@1618001666089/World-and-colorectal-cancer-in-2020-a-Estimated-age-standardized-incidence-rate.png)
+
+**World and Colorectal Cancer in 2020**
+
+(a) Estimated age standardized incidence rate (100,000) for world countries; (b) Estimated age standardized mortality rate (100,000) for the world countries. Modified from Global Cancer Observatory (GBO) 2020, International Agency for Research on Cancer, World Health Organization 
+
+[ x ] This Codeathon project seeks to analyze WGS data of Colorectal cancer patients using a shortgun metagenomes approach
 
 ## Background
 
@@ -29,19 +37,20 @@ This Codeathon project seeks to analyze WGS data of Colorectal cancer patients u
 
 1. Colorectal Cancer: Statistics. https://www.cancer.net/cancer-types/colorectal-cancer/statistics#
 2. Simon K. (2016). Colorectal cancer development and advances in screening. Clinical interventions in aging, 11, 967–976. https://doi.org/10.2147/CIA.S109285
-3.  Colorectal Cancer Risk Factors. https://www.cancer.org/cancer/colon-rectal-cancer/causes-risks-prevention/risk-factors.html
-
+3. Colorectal Cancer Risk Factors. https://www.cancer.org/cancer/colon-rectal-cancer/causes-risks-prevention/risk-factors.html
+4. Ferlizza, Enea & Solmi, Rossella & Sgarzi, Michela & Ricciardiello, Luigi & Lauriola, Mattia. (2021). The Roadmap of Colorectal Cancer Screening. Cancers. 13. 10.3390/cancers13051101. 
+5. Gao, R., Gao, Z., Huang, L., & Qin, H. (2017). Gut microbiota and colorectal cancer. European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology, 36(5), 757–769. https://doi.org/10.1007/s10096-016-2881-8
 
 ## Team
-###### Jbara, Soumaya
-###### Kasambula, Arthur Shem
-###### Asante, Bright Opoku
-###### Walid, Baba
-###### Meryem, Jafari
-###### Sara Fadel
-###### Olaitan, I. Awe
-###### Allissa Dillman
-###### Hasan Ghazal
+* Jbara, Soumaya
+* Kasambula, Arthur Shem
+* Asante, Bright Opoku
+* Walid, Baba
+* Meryem, Jafari
+* Sara Fadel
+* Olaitan, I. Awe
+* Allissa Dillman
+* Hasan Ghazal
 
 
 
