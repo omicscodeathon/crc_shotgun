@@ -28,9 +28,19 @@
 
 
 ## Methodology
+* Obtain WGS fecal samples (Sequence Read Archive)
+* Read Quality Assessment (FastQC)
+* Trimming and Filtering 
+* Metagenome Assembly (metaSPades) and Quality Check of Assembled Metagenome (metaQUAST)
+* Metagenome Binning
+* Taxonomic Assignment (Kraken2)
+* Diversity Analysis
+* Taxonomic and Phylogeny Analysis
+
+## Workflow 
 
 
-## Conclusion
+##Conclusion
 
 
 ## References
