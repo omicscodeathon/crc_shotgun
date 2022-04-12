@@ -14,7 +14,7 @@
 
 * *Colorectal cancer(CRC)* remains a worldwide epidemiological burden, and a leading contributor of cancer morbidity and mortality each year. 
 * In 2020 alone, [CRC was responsible for an estimated 915,880 deaths](https://www.cancer.net/cancer-types/colorectal-cancer/statistics#). 
-* The development of CRC is usually as a result of the interaction between histological, morphological, and genetic changes that accumulate over time (Simon _et al_., 2016)
+* CRC results from ![altered gut bacterial composition](https://pubmed.ncbi.nlm.nih.gov/28512250/), and development is usually as a result of the interaction between histological, morphological, and genetic changes that accumulate over time (Simon _et al_., 2016)
 * Risk factors for CRC include excessive alcohol use, smoking, old age, obesity and physical inactivity, certain deits, family history, and other genetic predispositions [3](https://www.cancer.org/cancer/colon-rectal-cancer/causes-risks-prevention/risk-factors.html).
 * Although incidence over the years have been lowering, prevalence continues as a result of certain adopoted lifestyle factors that continue to implicate the disease, even in low-risk settings, offsetting the benefits of early screening.
 * The early screening and detection of CRC would allow for increased chance of proper diagnosis with improved outcomes. Late detection may be too late for normal colorectal architecture recovery, as infection might have complicated and worsened beyond current treatment.
@@ -23,6 +23,12 @@
 
 ![CRC Prevention](https://f6publishing.blob.core.windows.net/7920e3fb-54d9-482e-ac8e-556aa64f9d20/WJG-20-6055-g003.jpg)
 
+
+## Problem Statement
+- The consensus for a rapid, cost effective screening approach for the early detection of CRC has enormous therapuetic benefits, but would require effective identification and discrimination between microbes implicated in CRC development. 
+- The gut microbiota habours a rich variety of microorganisms, and is an essential feature to investigate in human health and diseases (Valdes _et al.,_ 2018)
+- Like CRC, many inflammatory diseases and infections has been linked to dysbiosis of bacterial composition although a considerable number of incidence report other microbial origins.
+- The need to therefore indescriminately characterize microbes in CRC development may offer insights into cases of abacterial origin, contributing to their detection and diagnosis.  
 
 ## Aim
 - [ ] To reveal the microbial composition and ecological changes in patients with colorectal cancer
@@ -33,6 +39,8 @@
 - [x] Access Whole Genome Sequence data of colorectal cancer patients
 - [x] Assemble and quality-check CRC metagenomes
 - [x] Gene prediction, functional annotation and phylogenetic analysis
+
+## Justification
 
 ## Methodology
 * Obtain WGS fecal samples (Sequence Read Archive)
@@ -61,8 +69,9 @@
 1. Colorectal Cancer: Statistics. https://www.cancer.net/cancer-types/colorectal-cancer/statistics#
 2. Simon K. (2016). Colorectal cancer development and advances in screening. Clinical interventions in aging, 11, 967–976. https://doi.org/10.2147/CIA.S109285
 3. Colorectal Cancer Risk Factors. https://www.cancer.org/cancer/colon-rectal-cancer/causes-risks-prevention/risk-factors.html
-4. Ferlizza, Enea & Solmi, Rossella & Sgarzi, Michela & Ricciardiello, Luigi & Lauriola, Mattia. (2021). The Roadmap of Colorectal Cancer Screening. Cancers. 13. 10.3390/cancers13051101. 
-5. Gao, R., Gao, Z., Huang, L., & Qin, H. (2017). Gut microbiota and colorectal cancer. European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology, 36(5), 757–769. https://doi.org/10.1007/s10096-016-2881-8
+4. Valdes A M, Walter J, Segal E, Spector T D. (2018). Role of the gut microbiota in nutrition and health BMJ 2018; 361 :k2179 doi:10.1136/bmj.k2179
+5. Ferlizza, Enea & Solmi, Rossella & Sgarzi, Michela & Ricciardiello, Luigi & Lauriola, Mattia. (2021). The Roadmap of Colorectal Cancer Screening. Cancers. 13. 10.3390/cancers13051101. 
+6. Gao, R., Gao, Z., Huang, L., & Qin, H. (2017). Gut microbiota and colorectal cancer. European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology, 36(5), 757–769. https://doi.org/10.1007/s10096-016-2881-8
 
 ## Team
 * Jbara, Soumaya
