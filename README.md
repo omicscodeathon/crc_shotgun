@@ -4,7 +4,7 @@
 
 ![CRC Global distribution](https://www.researchgate.net/publication/350679855/figure/fig1/AS:1010786403090432@1618001666089/World-and-colorectal-cancer-in-2020-a-Estimated-age-standardized-incidence-rate.png)
 
-**World and Colorectal Cancer in 2020**
+- [ ] **World and Colorectal Cancer in 2020**
 
 (a) Estimated age standardized incidence rate (100,000) for world countries; (b) Estimated age standardized mortality rate (100,000) for the world countries. Modified from Global Cancer Observatory (GBO) 2020, International Agency for Research on Cancer, World Health Organization 
 
@@ -25,12 +25,12 @@
 
 
 ## Aim
-* To characterize microbial implicates in Colorectal Cancer infections using shorgun metagenomes approach
+- [x] To characterize microbial implicates in Colorectal Cancer infections using shorgun metagenomes approach
 
 ## Objectives
-- Access Whole Genome Sequence data of colorectal cancer patients
-- Assemble and quality-check CRC metagenomes
-- Gene prediction, functional annotation and phylogenetic analysis
+- [x] Access Whole Genome Sequence data of colorectal cancer patients
+- [x] Assemble and quality-check CRC metagenomes
+- [x] Gene prediction, functional annotation and phylogenetic analysis
 
 ## Methodology
 * Obtain WGS fecal samples (Sequence Read Archive)
