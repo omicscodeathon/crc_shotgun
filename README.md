@@ -1,7 +1,5 @@
 # Human Gut Microbiome Exploration of Colorectal Cancer Patients Using Shotgun Metagenomics Approach
 
-**Global Colorectal Cancer Distribution and Burden**
-
 ![CRC Global distribution](https://www.researchgate.net/publication/350679855/figure/fig1/AS:1010786403090432@1618001666089/World-and-colorectal-cancer-in-2020-a-Estimated-age-standardized-incidence-rate.png)
 
 - [ ] **World and Colorectal Cancer in 2020**
@@ -14,21 +12,25 @@
 
 * *Colorectal cancer(CRC)* remains a worldwide epidemiological burden, and a leading contributor of cancer morbidity and mortality each year. 
 * In 2020 alone, [CRC was responsible for an estimated 915,880 deaths](https://www.cancer.net/cancer-types/colorectal-cancer/statistics#). 
-* CRC results from ![altered gut bacterial composition](https://pubmed.ncbi.nlm.nih.gov/28512250/), and development is usually as a result of the interaction between histological, morphological, and genetic changes that accumulate over time (Simon _et al_., 2016)
+* CRC results from [altered gut bacterial composition](https://pubmed.ncbi.nlm.nih.gov/28512250/), and development is usually as a result of the interaction between histological, morphological, and genetic changes that accumulate over time (Simon _et al_., 2016)
 * Risk factors for CRC include excessive alcohol use, smoking, old age, obesity and physical inactivity, certain deits, family history, and other genetic predispositions [3](https://www.cancer.org/cancer/colon-rectal-cancer/causes-risks-prevention/risk-factors.html).
 * Although incidence over the years have been lowering, prevalence continues as a result of certain adopoted lifestyle factors that continue to implicate the disease, even in low-risk settings, offsetting the benefits of early screening.
 * The early screening and detection of CRC would allow for increased chance of proper diagnosis with improved outcomes. Late detection may be too late for normal colorectal architecture recovery, as infection might have complicated and worsened beyond current treatment.
 
 ![Predisposing factors to CRC](https://f6publishing.blob.core.windows.net/7920e3fb-54d9-482e-ac8e-556aa64f9d20/WJG-20-6055-g002.jpg)
 
+   (a) _**Contributing factors to the development of Colorectal Cancer**_
+
 ![CRC Prevention](https://f6publishing.blob.core.windows.net/7920e3fb-54d9-482e-ac8e-556aa64f9d20/WJG-20-6055-g003.jpg)
+
+   (b) _**Current CRC prevention approaches**_
 
 
 ## Problem Statement
 - The consensus for a rapid, cost effective screening approach for the early detection of CRC has enormous therapuetic benefits, but would require effective identification and discrimination between microbes implicated in CRC development. 
 - The gut microbiota habours a rich variety of microorganisms, and is an essential feature to investigate in human health and diseases (Valdes _et al.,_ 2018)
-- Like CRC, many inflammatory diseases and infections has been linked to dysbiosis of bacterial composition although a considerable number of incidence report other microbial origins.
-- The need to therefore indescriminately characterize microbes in CRC development may offer insights into cases of abacterial origin, contributing to their detection and diagnosis.  
+- Like CRC, many inflammatory diseases and infections has been linked to dysbiosis of bacterial composition _**although a considerable number of incidence report other microbial origins**_.
+- **_The need to therefore indescriminately characterize microbes in CRC development_** may offer insights into cases of abacterial origin, contributing to their detection and diagnosis.  
 
 ## Aim
 - [ ] To reveal the microbial composition and ecological changes in patients with colorectal cancer
@@ -41,6 +43,7 @@
 - [x] Gene prediction, functional annotation and phylogenetic analysis
 
 ## Justification
+- [x] While 16S rRNA amplicon sequencing has selective advantage for bacterial metagenomes, Shortgut microbiome sequencing is able to identify and characterize a larger class of microbial variants, and this allows for their identification which would not have been possible with the former.
 
 ## Methodology
 * Obtain WGS fecal samples (Sequence Read Archive)
