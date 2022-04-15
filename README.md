@@ -57,8 +57,7 @@
 * Taxonomic and Phylogeny Analysis
 
 ## Workflow 
-![Shotgun-metagenomic-sequencing-data-analysis-pipeline](https://user-images.githubusercontent.com/91139902/162806492-34e1cac0-a2fc-49d8-92eb-8dabbe542b6e.png)
-
+*Study workflow:
 ![pipeline wgs](https://user-images.githubusercontent.com/91139902/163515241-1bfa01ef-f368-4187-b717-0dbe525de6c3.png)
 
 ## Expected Results
