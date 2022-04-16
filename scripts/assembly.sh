@@ -1,4 +1,3 @@
-
 cd $PATH_TO_FASTQ_FILES
 module load spades-3.15.3
 metaspades.py -1 SRR16124258_1.fastq -2 SRR16124258_2.fastq -o assembly1_out
