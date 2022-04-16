@@ -4,14 +4,9 @@
 #SBATCH --partition=mediumq
 #SBATCH --time=xx:00:00
 #SBATCH --mem-per-cpu=xxGb
-#SBATCH --mail-type=ALL
-#SBATCH --mail-user=xxxxxx@xxx
 #SBATCH --error=%fraggenescan.err
 #SBATCH --output=%fraggenescan.out
 
-cd /..$PATH 
+cd $PATH_TO_FASTA_FILE 
 module load Anaconda3
 run_FragGeneScan.pl -genome=~/contig.fasta -out=~/contigs.test -complete=1 -train=complete
-
-
-
