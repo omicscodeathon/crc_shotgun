@@ -1,0 +1,19 @@
+#!/bin/bash
+#SBATCH --job-name=kraken2
+#SBATCH --nodes=1
+#SBATCH --partition=mediumq
+#SBATCH --time=72:00:00
+#SBATCH --mem-per-cpu=xxxGb
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=xxxxxxxxxxx@gmail.com
+#SBATCH --error=%Kraken.err
+#SBATCH --output=%Kraken.out
+
+cd $PATH
+module load Anaconda3
+source activate biotools
+#Taxonomic assignment of metagenomic reads
+kraken2 --db $KRAKEN-DB-LOCATION --threads 12 --paired SRR16124258_F.fastq SRR16124258_R.fastq --output output.kraken --report output.report
+
+#Taxonomic assignment of the contigs of a Metagenome-assembled reads
+kraken2 --db $KRAKEN-DB-LOCATION--threads 12 -input contigs.fasta --output output1.kraken --report output1.report
